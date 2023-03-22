@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<perfumes>
+    <Best_Sellers>
+        <perfume_name>Assam & Grapefruit Cologne</perfume_name>
+        <perfume_notes>herbal mate, spicy cardamom, warmth of patchouli</perfume_notes>
+        <perfume_ml>50ml</perfume_ml>
+        <perfume_price>$110.00</perfume_price>
+        <SCENTS>
+            <SCENT id = "1">Citrus</SCENT>
+            <SCENT id = "2">Fruity</SCENT>
+            <SCENT id = "3">Light Floral</SCENT>
+            <SCENT id = "4">Floral</SCENT>
+            <SCENT id = "5">Spicy</SCENT>
+            <SCENT id = "6">Woody</SCENT>
+        </SCENTS>
+    </Best_Sellers>
+    <Best_Sellers>
+        <perfume_name>Blackberry & Bay Cologne</perfume_name>
+        <perfume_notes>deep, tart blackberry juice, brambly woods</perfume_notes>
+        <perfume_ml>100ml</perfume_ml>
+        <perfume_price>$155.00</perfume_price>
+        <SCENTS>
+            <SCENT id = "1">Citrus</SCENT>
+            <SCENT id = "2">Fruity</SCENT>
+            <SCENT id = "3">Light Floral</SCENT>
+            <SCENT id = "4">Floral</SCENT>
+            <SCENT id = "5">Spicy</SCENT>
+            <SCENT id = "6">Woody</SCENT>
+        </SCENTS>
+    </Best_Sellers>
+    <Best_Sellers>
+        <perfume_name>Blackberry & Bay Cologne</perfume_name>
+        <perfume_notes>deep, tart blackberry juice, brambly woods</perfume_notes>
+        <perfume_ml>100ml</perfume_ml>
+        <perfume_price>$155.00</perfume_price>
+        <SCENTS>
+            <SCENT id = "1">Citrus</SCENT>
+            <SCENT id = "2">Fruity</SCENT>
+            <SCENT id = "3">Light Floral</SCENT>
+            <SCENT id = "4">Floral</SCENT>
+            <SCENT id = "5">Spicy</SCENT>
+            <SCENT id = "6">Woody</SCENT>
+        </SCENTS>
+    </Best_Sellers> 
+    <Best_Sellers>
+        <perfume_name>Wild Bluebell Cologne</perfume_name>
+        <perfume_notes>lily of the valley and eglantine, twist of persimmon</perfume_notes>
+        <perfume_ml>100ml</perfume_ml>
+        <perfume_price>$155.00</perfume_price>
+        <SCENTS>
+            <SCENT id = "1">Citrus</SCENT>
+            <SCENT id = "2">Fruity</SCENT>
+            <SCENT id = "3">Light Floral</SCENT>
+            <SCENT id = "4">Floral</SCENT>
+            <SCENT id = "5">Spicy</SCENT>
+            <SCENT id = "6">Woody</SCENT>
+        </SCENTS>
+    </Best_Sellers>
+    <Best_Sellers>
+        <perfume_name>English Oak & Hazelnut Cologne</perfume_name>
+        <perfume_notes>The crunch of green hazelnut. The spice of elemi. The earthy woodiness of vetiver cooled by emerald moss carpets.</perfume_notes>
+        <perfume_ml>100ml</perfume_ml>
+        <perfume_price>$155.00</perfume_price>
+        <SCENTS>
+            <SCENT id = "1">Citrus</SCENT>
+            <SCENT id = "2">Fruity</SCENT>
+            <SCENT id = "3">Light Floral</SCENT>
+            <SCENT id = "4">Floral</SCENT>
+            <SCENT id = "5">Spicy</SCENT>
+            <SCENT id = "6">Woody</SCENT>
+        </SCENTS>
+    </Best_Sellers>
+    <Best_Sellers>
+        <perfume_name>Cypress & Grapevine Cologne Intense</perfume_name>
+        <perfume_notes>An aromatic woody scent inspired by a verdant hanging garden.</perfume_notes>
+        <perfume_ml>100ml</perfume_ml>
+        <perfume_price>$220.00</perfume_price>
+        <SCENTS>
+            <SCENT id = "1">Citrus</SCENT>
+            <SCENT id = "2">Fruity</SCENT>
+            <SCENT id = "3">Light Floral</SCENT>
+            <SCENT id = "4">Floral</SCENT>
+            <SCENT id = "5">Spicy</SCENT>
+            <SCENT id = "6">Woody</SCENT>
+        </SCENTS>
+    </Best_Sellers>
+
+
+</perfumes>
