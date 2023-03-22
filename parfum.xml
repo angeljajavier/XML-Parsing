@@ -6,7 +6,8 @@
         <perfume_ml>50ml</perfume_ml>
         <perfume_price>$110.00</perfume_price>
         <SCENTS>
-            <SCENT id = "1">Citrus</SCENT>
+            <SCENT id = "1
+            ">Citrus</SCENT>
             <SCENT id = "2">Fruity</SCENT>
             <SCENT id = "3">Light Floral</SCENT>
             <SCENT id = "4">Floral</SCENT>
@@ -15,8 +16,8 @@
         </SCENTS>
     </Best_Sellers>
     <Best_Sellers>
-        <perfume_name>Blackberry & Bay Cologne</perfume_name>
-        <perfume_notes>deep, tart blackberry juice, brambly woods</perfume_notes>
+        <perfume_name>Earl Grey & Cucumber Cologne</perfume_name>
+        <perfume_notes>counterpoised with a sweet base of beeswax, vanilla and musk.</perfume_notes>
         <perfume_ml>100ml</perfume_ml>
         <perfume_price>$155.00</perfume_price>
         <SCENTS>
