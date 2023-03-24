@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <perfumes>
     <Best_Sellers>
-        <perfume_name>Assam & Grapefruit Cologne</perfume_name>
+        <perfume_name>Assam &amp; Grapefruit Cologne</perfume_name>
         <perfume_notes>herbal mate, spicy cardamom, warmth of patchouli</perfume_notes>
         <perfume_ml>50ml</perfume_ml>
         <perfume_price>$110.00</perfume_price>
@@ -15,7 +15,7 @@
         </SCENTS>
     </Best_Sellers>
     <Best_Sellers>
-        <perfume_name>Blackberry & Bay Cologne</perfume_name>
+        <perfume_name>Blackberry &amp; Bay Cologne</perfume_name>
         <perfume_notes>deep, tart blackberry juice, brambly woods</perfume_notes>
         <perfume_ml>100ml</perfume_ml>
         <perfume_price>$155.00</perfume_price>
@@ -29,7 +29,7 @@
         </SCENTS>
     </Best_Sellers>
     <Best_Sellers>
-        <perfume_name>Blackberry & Bay Cologne</perfume_name>
+        <perfume_name>Blackberry &amp; Bay Cologne</perfume_name>
         <perfume_notes>deep, tart blackberry juice, brambly woods</perfume_notes>
         <perfume_ml>100ml</perfume_ml>
         <perfume_price>$155.00</perfume_price>
@@ -57,7 +57,7 @@
         </SCENTS>
     </Best_Sellers>
     <Best_Sellers>
-        <perfume_name>English Oak & Hazelnut Cologne</perfume_name>
+        <perfume_name>English Oak &amp; Hazelnut Cologne</perfume_name>
         <perfume_notes>The crunch of green hazelnut. The spice of elemi. The earthy woodiness of vetiver cooled by emerald moss carpets.</perfume_notes>
         <perfume_ml>100ml</perfume_ml>
         <perfume_price>$155.00</perfume_price>
@@ -71,7 +71,7 @@
         </SCENTS>
     </Best_Sellers>
     <Best_Sellers>
-        <perfume_name>Cypress & Grapevine Cologne Intense</perfume_name>
+        <perfume_name>Cypress &amp; Grapevine Cologne Intense</perfume_name>
         <perfume_notes>An aromatic woody scent inspired by a verdant hanging garden.</perfume_notes>
         <perfume_ml>100ml</perfume_ml>
         <perfume_price>$220.00</perfume_price>
