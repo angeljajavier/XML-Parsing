@@ -7,10 +7,11 @@
     <title>Document</title>
 </head>
 <body>
-    <h2>Perfume Collection:</h2>
+    
+    <h2>My Perfume Collection:</h2>
 
     <button type="button" onclick="loadXMLDoc()">
-    Get my CD collection</button>
+    Get my Perfume Collection</button>
     
     <table id="demo" border="1" cellspacing="0" cellpadding="10" width="80%" align="center"">
     </table>
@@ -28,18 +29,18 @@
         }
         
         function createTable(xml) {
-            var i, xmlDoc, txt;
+            var i, k, xmlDoc, txt;
             
             // Actual XML File Object mode
             xmlDoc = xml.responseXML; 
 
             txt = `
                 <tr>
-                    <th>NAME</th>
-                    <th>NOTES</th>
+                    <th>Name</th>
+                    <th>Notes</th>
                     <th>ML</th>
-                    <th>PRICE</th>
-                    <th>SCENTS</th>
+                    <th>Price</th>
+                    <th>Scent</th>
                 </tr>
             `;
 
@@ -47,16 +48,26 @@
             var perfume_notes = xmlDoc.getElementsByTagName("perfume_notes");
             var perfume_ml = xmlDoc.getElementsByTagName("perfume_ml");
             var perfume_price = xmlDoc.getElementsByTagName("perfume_price");
-            var SCENTS = xmlDoc.getElementsByTagName("SCENT");
- 
-            for (i = 0; i< title.length; i++) {
+            var SCENT = xmlDoc.getElementsByTagName("SCENT");
+           
+
+            for (i = 0; i< perfume_name.length; i++) {
                 txt += `
                     <tr>
                         <td>${perfume_name[i].childNodes[0].nodeValue}</td>
                         <td>${perfume_notes[i].childNodes[0].nodeValue}</td>
                         <td>${perfume_ml[i].childNodes[0].nodeValue}</td>
                         <td>${perfume_price[i].childNodes[0].nodeValue}</td>
-                        <td>${SCENTS[i].childNodes[0].nodeValue}</td>
+                        <td>
+                       
+                            <ul>
+                                `;for (k=0; k<6;k++){
+                                    txt +=`
+                            <li>${SCENT[k].childNodes[0].nodeValue}</li>
+                            
+                                `}`
+                            </ul>
+                        </td>
                     </tr>
                 `;                
             }
